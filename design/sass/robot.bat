@@ -1,1 +1,0 @@
-sass --watch 0-0-2.scss ../css/0-0-2.css
